@@ -1,6 +1,8 @@
 # QwertyToHebrew
 Type in English QWERTY, instantly see correct Hebrew as if typed on Hebrew keyboard.
 
+## Demo: https://il-internet.github.io/QwertyToHebrew/ 
+
 Copy this and use it locally on your browser
 
 ```html
